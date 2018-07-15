@@ -2,9 +2,10 @@
 * Text Content Generator - http://www.lipsum.com
 * Favicon Generator - http://tools.dynamicdrive.com/favicon		
 * Data Generator - https://mockaroo.com/						
-* UUID Generator - https://www.uuidgenerator.net/
 * Mobile Mockup Generator - https://mockuphone.com
-* Logo Generator - https://www.logaster.com
+* Logo Generator - Logo Generator - https://www.logaster.com
+* UUID Generator - https://www.uuidgenerator.net/
+* Hash Generator - https://passwordsgenerator.net/sha256-hash-generator/
 
 ## IMAGE RESOURCES:
 * Free Stock Images - https://www.pexels.com
@@ -23,7 +24,8 @@
 * ES6+ & JSX Compiler - https://babeljs.io/repl
 * Sass Converter - https://www.sassmeister.com/ 		  
 * Less Converter & More - http://www.webtoolkitonline.com   
-* Markdown Editor - https://stackedit.io       
+* Markdown Editor - https://stackedit.io
+* Jade Converter - http://www.html2jade.org/
 
 ## IMAGE COMPRESSION:
 * Compress All Images - https://compressor.io/compress
@@ -54,6 +56,7 @@
 
 ## RESPONSIVENESS:
 * Device Testing - http://www.responsinator.com
+* What's My Browser Size - https://www.webpagefx.com/tools/whats-my-browser-size/
 
 ## WIREFRAME:
 * In Browser Wireframing - https://app.moqups.com
@@ -61,6 +64,8 @@
 
 ## SPEED TEST:
 * Speed & Performance Testing - https://tools.keycdn.com/speed
+* Pingdom Speed Test - https://tools.pingdom.com/
 
 ## OTHER:
 * https://domainr.com/
+* Public API Resources - https://github.com/toddmotto/public-apis?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
