@@ -3,7 +3,7 @@
 * Favicon Generator - http://tools.dynamicdrive.com/favicon		
 * Data Generator - https://mockaroo.com/						
 * Mobile Mockup Generator - https://mockuphone.com
-* Logo Generator - Logo Generator - https://www.logaster.com
+* Logo Generator - https://www.logaster.com
 * UUID Generator - https://www.uuidgenerator.net/
 * Hash Generator - https://passwordsgenerator.net/sha256-hash-generator/
 
