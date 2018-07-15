@@ -11,7 +11,7 @@
 * Free Stock Images - https://www.pexels.com
 * Free Stock Images With Great API - https://unsplash.com/
 * Free- Vectors, mockups - https://www.freepik.com
-* Dummy Images - http://lorempixel.com
+* Dummy Image Placeholders - https://source.unsplash.com/
 * Dummy Image Placeholders - https://placeholder.com
 * Free Icons - https://www.iconfinder.com
 
