@@ -1,69 +1,66 @@
-## CONTENT RESOURCES:
-* https://www.pexels.com
-* https://unsplash.com/
-* https://www.freepik.com
-* http://www.lipsum.com
-* http://www.blokkfont.com
-* http://lorempixel.com
-* https://placeholder.com
-* https://www.iconfinder.com
-* http://www.lipsum.com
+## GENERATORS:
+* Text Content Generator - http://www.lipsum.com
+* Favicon Generator - http://tools.dynamicdrive.com/favicon		
+* Data Generator - https://mockaroo.com/						
+* UUID Generator - https://www.uuidgenerator.net/
+* Mobile Mockup Generator - https://mockuphone.com
+* Logo Generator - Logo Generator - https://www.logaster.com
+
+## IMAGE RESOURCES:
+* Free Stock Images - https://www.pexels.com
+* Free Stock Images With Great API - https://unsplash.com/
+* Free- Vectors, mockups - https://www.freepik.com
+* Dummy Images - http://lorempixel.com
+* Dummy Image Placeholders - https://placeholder.com
+* Free Icons - https://www.iconfinder.com
 
 ## CODE OPTIMIZATION:
-* http://minifier.org
-* https://codebeautify.org
-* https://www.diffchecker.com
+* Minify JS & CSS - http://minifier.org
+* Code Optimization Tools - https://codebeautify.org
+* Code Diff Checker - https://www.diffchecker.com
 
 ## CONVERTERS:
-* https://babeljs.io/repl
-* https://www.sassmeister.com/ 		  
-* http://www.webtoolkitonline.com   
-* https://stackedit.io
-* https://dillinger.io 				       
+* ES6+ & JSX Compiler - https://babeljs.io/repl
+* Sass Converter - https://www.sassmeister.com/ 		  
+* Less Converter & More - http://www.webtoolkitonline.com   
+* Markdown Editor - https://stackedit.io       
 
 ## IMAGE COMPRESSION:
-* https://compressor.io/compress
-* http://jpeg-optimizer.com/
-* https://tinypng.com/
+* Compress All Images - https://compressor.io/compress
+* Compress JPG - http://jpeg-optimizer.com/
+* Compress PNG - https://tinypng.com/
 
 ## VALIDATION & COMPATIBILITY:
-* https://validator.w3.org
-* https://jigsaw.w3.org/css-validator
-* https://caniuse.com/
-* https://kangax.github.io/compat-table/es6/
-
-## GENERATORS:
-* http://tools.dynamicdrive.com/favicon		
-* https://mockaroo.com/						
-* https://www.uuidgenerator.net/
-* https://mockuphone.com
-* Logo Generator - https://www.logaster.com
+* Validate HTML - https://validator.w3.org
+* Validate CSS - https://jigsaw.w3.org/css-validator
+* Check Browser Compatibility - https://caniuse.com/
+* ES6+ Compatibility Table - https://kangax.github.io/compat-table/es6/
 
 ## IN BROWSER CODING:
-* https://codepen.io
-* https://jsfiddle.net
-* http://liveweave.com
-* https://repl.it
+* Client Side Code - https://codepen.io
+* Client Side Code - https://jsfiddle.net
+* Client Side Code - http://liveweave.com
+* Server Side Code - https://repl.it
 
 ## SNIPPET TOOLS:
-* https://gist.github.com
-* https://pastebin.com
+* Snippet Manager - https://gist.github.com
+* Snippet Manager - https://pastebin.com
 
 ## COLOR & DESIGN:
-* https://color.hailpixel.com
-* http://stylifyme.com
-* https://uigradients.com
-* http://css3buttongenerator.com 
+* Create Color Schemes - https://color.hailpixel.com
+* Get Color Schemes of Websites - http://stylifyme.com
+* Create Gradients - https://uigradients.com
+* CSS Button Generator - http://css3buttongenerator.com 
 
 ## RESPONSIVENESS:
-* http://www.responsinator.com
+* Device Testing - http://www.responsinator.com
 
 ## WIREFRAME:
-* https://app.moqups.com
-* https://wireframe.cc
+* In Browser Wireframing - https://app.moqups.com
+* Very Basic In Browser Wireframing - https://wireframe.cc
 
 ## SPEED TEST:
-* https://tools.keycdn.com/speed
+* Speed & Performance Testing - https://tools.keycdn.com/speed
 
 ## OTHER:
 * https://domainr.com/
