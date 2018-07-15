@@ -4,7 +4,7 @@
 * Data Generator - https://mockaroo.com/						
 * UUID Generator - https://www.uuidgenerator.net/
 * Mobile Mockup Generator - https://mockuphone.com
-* Logo Generator - Logo Generator - https://www.logaster.com
+* Logo Generator - https://www.logaster.com
 
 ## IMAGE RESOURCES:
 * Free Stock Images - https://www.pexels.com
