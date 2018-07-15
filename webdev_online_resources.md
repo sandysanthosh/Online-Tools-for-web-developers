@@ -35,7 +35,9 @@
 ## GENERATORS:
 * http://tools.dynamicdrive.com/favicon		
 * https://mockaroo.com/						
-* https://www.uuidgenerator.net/				
+* https://www.uuidgenerator.net/
+* https://mockuphone.com
+* Logo Generator - https://www.logaster.com
 
 ## IN BROWSER CODING:
 * https://codepen.io
