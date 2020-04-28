@@ -69,3 +69,7 @@
 * Speed & Performance Testing - https://tools.keycdn.com/speed
 * Pingdom Speed Test - https://tools.pingdom.com/
 
+
+
+<a href="http://starwalt.in/Blogs/index.html">Follow us on Blog</a>
+
